@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @melissapla
 - 👀 I’m interested in the universe of data
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects and help who need 
+- 💞️ I’m looking to collaborate on projects and help who needs
 - 📫 How to reach me melissa.ps@hotmail.com
 - 😄 Pronouns: Mel, Mê
 - ⚡ Fun fact: At college I didn't like about codes and programing, after working with I love it!
