@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @melissapla
+- 👋 Hi, I’m Melissa
 - 👀 I’m interested in the universe of data
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects and help who needs
